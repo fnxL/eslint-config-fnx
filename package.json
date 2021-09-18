@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-fnxl",
+  "name": "eslint-config-fnx",
   "version": "1.0.0",
   "description": "ESLint + Prettier config for React (Next.js) with airbnb style guide.",
   "main": "index.js",
