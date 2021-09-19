@@ -46,7 +46,7 @@ To start using this config, extend this config in your `.eslintrc` file
 ```
 //.eslintrc
 {
-  "extends": ["fnxl"]
+  "extends": ["fnx"]
 }
 ```
 
@@ -61,7 +61,7 @@ If you wish to override any prettier options, you can do so by specifying them u
 ```
 // .eslintrc
 {
-  "extends": ['acme'],
+  "extends": ["fnx"],
   "rules": {
     "prettier/prettier" : [
       "error",
